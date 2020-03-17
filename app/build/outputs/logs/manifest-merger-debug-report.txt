@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+INJECTED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+INJECTED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+INJECTED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f3563d83c77c5994f748819ae19e3fa5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/0d653e6beecd92a3acfcf4cced5a5b9b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/926b54742a9944c5159c7d8635198734/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/0dc7ed32201cda5819b8403abf276b02/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c4ccbf28f5e64145ed6303fec85f2153/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9aa8063fce7c454196becc4697519356/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/5e75fb52059f99de8de89b22aa4e7cc4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8d7bc4d103153d13986bcffe6c252080/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/660fce8b77b053d450588c8d5fbf3692/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d317550ff48654e27ca73f5970e38290/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/52c476962714add7fd6c6ea747e51888/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9f614f73103e532036c6a758847d3065/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+INJECTED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+INJECTED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+	package
+		ADDED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml:16:11-57
+		INJECTED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+		ADDED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+		INJECTED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+		ADDED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+		INJECTED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:11-69
+application
+ADDED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml:18:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/0d653e6beecd92a3acfcf4cced5a5b9b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/0d653e6beecd92a3acfcf4cced5a5b9b/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml:23:9-40
+activity#com.example.android.hellosharedprefs.MainActivity
+ADDED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml:24:9-29:20
+	android:name
+		ADDED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml:24:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+INJECTED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f3563d83c77c5994f748819ae19e3fa5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f3563d83c77c5994f748819ae19e3fa5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/0d653e6beecd92a3acfcf4cced5a5b9b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/0d653e6beecd92a3acfcf4cced5a5b9b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/926b54742a9944c5159c7d8635198734/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/926b54742a9944c5159c7d8635198734/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/0dc7ed32201cda5819b8403abf276b02/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/0dc7ed32201cda5819b8403abf276b02/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c4ccbf28f5e64145ed6303fec85f2153/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c4ccbf28f5e64145ed6303fec85f2153/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9aa8063fce7c454196becc4697519356/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9aa8063fce7c454196becc4697519356/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/5e75fb52059f99de8de89b22aa4e7cc4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/5e75fb52059f99de8de89b22aa4e7cc4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8d7bc4d103153d13986bcffe6c252080/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8d7bc4d103153d13986bcffe6c252080/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/660fce8b77b053d450588c8d5fbf3692/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/660fce8b77b053d450588c8d5fbf3692/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d317550ff48654e27ca73f5970e38290/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d317550ff48654e27ca73f5970e38290/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/52c476962714add7fd6c6ea747e51888/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/52c476962714add7fd6c6ea747e51888/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9f614f73103e532036c6a758847d3065/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9f614f73103e532036c6a758847d3065/AndroidManifest.xml:20:5-44
+INJECTED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+INJECTED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+		ADDED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+		ADDED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kimlaa21/cs323/android-fundamentals-starter-apps-v2-master/HelloSharedPrefs/app/src/main/AndroidManifest.xml
